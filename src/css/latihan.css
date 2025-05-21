@@ -7,16 +7,15 @@
   }
 aside {
     background-color: #3b9fe2;
-    border-radius: 15px;
+    border-radius: 20px;
     color: white;
     padding: 10px;
-    margin: auto;
+    /* margin: auto; */
   }
 main {
     background-color: #958e8e;
-    border-radius: 15px;
+    border-radius: 20px;
     padding: 10px;
-    /* margin: auto; */
 }
 #foto-profil {
     width: 100%;
